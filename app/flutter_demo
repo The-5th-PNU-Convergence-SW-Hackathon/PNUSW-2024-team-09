@@ -1,0 +1,64 @@
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(const MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+  @override
+  Widget build(BuildContext context) {
+
+    return MaterialApp(
+      theme: ThemeData(scaffoldBackgroundColor: Color(0xffD6F0FF)),
+      home: Scaffold(
+        appBar: AppBar(
+          backgroundColor: const Color(0xff0555AC),
+          leading: Image.asset('assets/logo.png'),
+          actions : [
+            Stack(
+              children: [
+                  Image.asset('assets/서칭바.png'),
+                  Positioned(
+                    right: 10,
+                    top: 0,
+                    bottom: 0,
+                    child: Image.asset('assets/surching.png',
+                        width: 20, height: 20),
+                  )
+
+              ],
+            )
+          ],
+        ),
+        body: Align(
+          alignment: Alignment.bottomCenter,
+          child: Container(
+            width: double.infinity,
+            height: 350,
+            child: Image.asset('assets/미미미누.png')
+          ),
+        ),
+        bottomNavigationBar: BottomAppBar(
+          color: Colors.white,
+          child: Container(
+            height: 200,
+            decoration: BoxDecoration(
+              border: Border.all(color: Colors.black12)
+            ),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
+                Image.asset('assets/메뉴.png'),
+                Image.asset('assets/skedule.png'),
+                Image.asset('assets/home.png'),
+                Image.asset('assets/save.png'),
+                Image.asset('assets/mypage.png'),
+              ],
+            ),
+          ),
+        ),
+      )
+    );
+  }
+}
