@@ -1,0 +1,128 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(const MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Scaffold(
+        resizeToAvoidBottomInset: false,
+        appBar: AppBar(
+          backgroundColor: Color(0xff0555AC),
+          leading: Image.asset('assets/logo.png'), 
+          title: Text(''),
+          actions: [
+            Stack(
+            children: [
+              Image.asset('assets/서칭바.png'),
+              Positioned(
+                right: 10, top: 0, bottom: 0,
+                child: Image.asset('assets/surching.png', width: 20, height: 20),
+              )
+            ],
+          )],
+        ),
+        body: Center(
+          child: Stack(
+            children: [
+              Container( width: double.infinity, height: double.infinity, color: Color(0xffD6F0FF),),
+              SizedBox(
+                height: 600,
+                child: GridView.count(
+                  crossAxisCount: 1,
+                  children: [
+                    Align(
+                      alignment: Alignment.bottomCenter,
+                      child: Container(
+                        width: double.infinity, height: 400,
+                        decoration: BoxDecoration(
+                            color: Color(0xffFCFCFC),
+                          borderRadius: BorderRadius.circular(25)
+                        ),
+                        child: Stack(
+                          children: [
+                            Column(
+                              children: [
+                                SizedBox(
+                                  width: 210,
+                                  child: Image.asset('assets/위치.png',
+                                    width: 225, height: 80, fit: BoxFit.fitWidth,),
+                                ),
+                                Stack(
+                                  children: [
+                                    Image.asset('assets/가로박스.png',
+                                      width: 230, height: 80, fit: BoxFit.fitWidth,),
+                                    Positioned( right: 0, top: 0, bottom: 0,
+                                    child: Image.asset('assets/pnubird.png',
+                                      width: 230, height: 80, fit: BoxFit.fitWidth,),)
+                                  ],
+                                ),
+                                SizedBox(
+                                  height: 180,
+                                  child: Row(
+                                    mainAxisAlignment: MainAxisAlignment.center,
+                                    children: [
+                                      Card(
+                                        color: Color(0xffFFFFFF),
+                                        shape: RoundedRectangleBorder(
+                                          borderRadius: BorderRadius.circular(16.0),
+                                        ),
+                                        elevation: 4.0,
+                                        child: Container(
+                                          width: 115,
+                                          height: 115,
+                                        ),
+                                      ),
+                                      Card(
+                                        color: Color(0xffFFFFFF),
+                                        shape: RoundedRectangleBorder(
+                                          borderRadius: BorderRadius.circular(16.0),
+                                        ),
+                                        elevation: 4.0,
+                                        child: Container(
+                                          width: 115,
+                                          height: 115,
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ],
+                        ),
+                      ),
+                    )
+                  ],
+                ),
+              ),
+            ],
+          )
+        ),
+        bottomNavigationBar: Container(
+          height: 65,
+          child: BottomAppBar(
+            color: Colors.white,
+            elevation: 7.0,
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
+                Image.asset('assets/메뉴.png'),
+                Image.asset('assets/skedule.png'),
+                Image.asset('assets/home.png'),
+                Image.asset('assets/save.png'),
+                Image.asset('assets/mypage.png'),
+              ],
+            ),
+          ),
+        ),
+      )
+    );
+  }
+}
