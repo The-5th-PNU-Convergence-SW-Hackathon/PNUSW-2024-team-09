@@ -34,7 +34,7 @@
     > 알x몬과 같은 기존의 알바 구직 어플과는 달리, 시간표 연동이라는 기능을 이용하여 시스템 상에서 자동으로 시간표 내의 수업시간을 제외한 알바들을 검색해준다.
     <details>
       <summary>이미지 보기</summary>
-      <img src="https://ibb.co/3R1yt9b" alt = "설명">
+      <img src="[https://ibb.co/3R1yt9b](https://ifh.cc/g/qWwvlP.png)" alt = "설명">
     </details>
   -
   -
