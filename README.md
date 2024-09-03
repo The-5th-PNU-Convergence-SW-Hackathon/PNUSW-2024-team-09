@@ -56,10 +56,7 @@
 ## 3. 개발결과
 #### 3.1. 전체시스템 흐름도
   > IA 정보구조도
-  <details>
-    <summary>이미지 보기</summary>
     <img src="https://ifh.cc/g/pBxplW.png" alt = "설명">
-  </details>
   
 #### 3.2. 기능 설명
 ###### 3.2.1 로그인
