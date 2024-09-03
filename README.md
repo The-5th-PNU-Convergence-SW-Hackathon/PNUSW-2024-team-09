@@ -106,7 +106,8 @@
 
 ## 5. 소개
 - 안녕하세요, 저희는 구은생선입니다. 대학생 맞춤 알바 구직 앱 알바노를 개발했습니다.
-  <img src='https://ifh.cc/g/JkqGz1.jpg'>
+  <img src="https://ifh.cc/g/JkqGz1.jpg" width="10%">
+
 ## 6. 팀 소개
   - 팀장 윤상현
     >
