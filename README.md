@@ -32,7 +32,10 @@
 #### 1.4. 기존 서비스 대비 차별성
   - 대학생들에게 최적화된 구직 방법
     > 알x몬과 같은 기존의 알바 구직 어플과는 달리, 시간표 연동이라는 기능을 이용하여 시스템 상에서 자동으로 시간표 내의 수업시간을 제외한 알바들을 검색해준다.
-<img src="/path/to/img.jpg" width="600px" title="Title" alt="Alt text">
+    <details>
+      <summary>이미지 보기</summary>
+      <img src="https://private-user-images.githubusercontent.com/34933690/319814386-be7beb64-490f-4480-b121-f25cde7f2a8d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUzODM3MTMsIm5iZiI6MTcyNTM4MzQxMywicGF0aCI6Ii8zNDkzMzY5MC8zMTk4MTQzODYtYmU3YmViNjQtNDkwZi00NDgwLWIxMjEtZjI1Y2RlN2YyYThkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAzVDE3MTAxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwNWU5NWZiOTMzOTEyNDA3ZjlkOTFiMWY0YzgyYWNiNzE4MTg5ZmQ4Mjg3MzFjMmNlZjI1OTliY2FmODA3YjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.44-BxVyeXByTV4vCjkC-NP1MUJwoEL-5_V_0xFNP7lY" alt = "설명">
+    </details>
   -
   -
 
