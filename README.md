@@ -57,6 +57,7 @@
 #### 2.2. 사용 기술
   - Saramin API
   - Flutter (Channel Stable, 3.24.1)
+  - Figma
 
 ## 3. 개발결과
 #### 3.1. 전체시스템 흐름도
