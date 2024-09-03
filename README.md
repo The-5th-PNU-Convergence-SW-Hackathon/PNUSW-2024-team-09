@@ -40,8 +40,6 @@
       <summary>이미지 보기</summary>
       <img src="https://ifh.cc/g/qWwvlP.png" alt = "설명">
     </details>
-  - 
-  -
 
 #### 1.5. 사회적가치 도입 계획
   - 대단한 사회적가치가 있다 .
