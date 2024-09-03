@@ -47,7 +47,7 @@
 
 ## 2. 상세설계
 #### 2.1. 시스템 구성도
-  > 우리의 내용
+  - IA 정보구조도
   <details>
     <summary>이미지 보기</summary>
     <img src="https://ifh.cc/g/pBxplW.png" alt = "설명">
