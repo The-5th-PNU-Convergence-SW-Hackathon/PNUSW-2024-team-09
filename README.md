@@ -72,7 +72,7 @@
   > 홈 화면에서는 현재 거주중인 지역과 추천 알바, 최근 지역공고를 모아볼 수 있다. 지역은 부산광역시와 양산시 내에서 선택할 수 있다.
 <img src="https://ifh.cc/g/6qZ4fP.jpg">
   > 내게 딱 맞는 알바는 사용자가 이전까지 조회한 알바와 즐겨찾기한 알바 등을 종합하여 아이템 기반 추천 기능을 사용하여 점수가 가장 높은 6개의 알바를 선정하였다.
-<a href='https://ifh.cc/v-ZtWA20' target='_blank'><imgsrc='https://ifh.cc/g/ZtWA20.jpg' border='0'></a>
+<img src='https://ifh.cc/g/ZtWA20.jpg' border='0'></a>
 
 #### 3.3. 기능명세서
   > 이건뭐야
