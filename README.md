@@ -121,8 +121,6 @@ Result (click "Generate" to refresh) Copy to clipboard  Preview
 |            | 알림           |               |                    |                                                                                             |          |            |   |
 |            | 지원현황       |               |                    |                                                                                             |          |            |   |
 
-#### 3.4. 디렉토리 구조
-  > 
 
 ## 4. 설치 및 사용 방법
 - 안드로이드는 apk 파일을 통해 설치, 실행
