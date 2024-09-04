@@ -77,10 +77,11 @@
 
 ###### 3.2.3 시간표 화면
   > 시간표를 등록하여 수업 또는 개인 시간을 제외한 알바를 추천해준다. 부산대학교 계정으로 로그인이 되어있다면, 시간표 연동을 통해 한 번에 시간표를 입력할 수 있다. 하나하나 입력하는 것 또한 가능하다.
-> <img src='https://ifh.cc/g/zY4Yo8.png'>
+<img src='https://ifh.cc/g/zY4Yo8.png'>
 <img src='https://ifh.cc/g/YKgyqD.png'>
+
 실행 화면 예
-> <img src ='https://ifh.cc/g/79G8qz.png'>
+<img src ='https://ifh.cc/g/79G8qz.png'>
 <img src ='https://ifh.cc/g/ma7Cft.png'>
 
 ###### 3.2.4.1 검색 화면
