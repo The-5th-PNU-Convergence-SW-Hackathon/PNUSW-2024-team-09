@@ -80,7 +80,7 @@
 <img src='https://ifh.cc/g/zY4Yo8.png'>
 <img src='https://ifh.cc/g/YKgyqD.png'>
 
-실행 화면 예
+> 실행 화면 예
 <img src ='https://ifh.cc/g/79G8qz.png'>
 <img src ='https://ifh.cc/g/ma7Cft.png'>
 
